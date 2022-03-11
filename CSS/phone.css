@@ -12,6 +12,12 @@ img.img-ft {
 .cr {
   gap: 38em;
 }
+img.img-work {
+  width: 473px;
+}
+img.img-ft {
+  width: 249px;
+}
 }
 
 
@@ -943,6 +949,12 @@ h2.finfo-heading {
 .con-number {
   margin-left: 3em;
 }
+.blog {
+  height: 107em;
+}
+.col-4.col-review {
+  width: 14em;
+}
 }
 
 @media only screen and (max-width:376px) {
@@ -1072,6 +1084,9 @@ p.site-para.pr-para {
 }
 .row.row-review {
   width: 100%;
+}
+.agency-card {
+  width: 12em;
 }
 }
 
@@ -1211,5 +1226,8 @@ img.header-img {
 }
 .dg-img.img-nd {
   width: 19em;
+}
+.site-look.project {
+  height: 47em;
 }
 }
