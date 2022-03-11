@@ -540,6 +540,9 @@ p.site-para {
 .col-6.wd-info {
   text-align: center;
 }
+.container.ft-con {
+  gap: 7em;
+}
 }
 
 
