@@ -934,6 +934,15 @@ p.site-para.pr-para {
 h5.site-h.pr {
   width: 26em;
 }
+p.p-fm {
+  width: 25em;
+}
+h2.finfo-heading {
+  width: 10em;
+}
+.con-number {
+  margin-left: 3em;
+}
 }
 
 @media only screen and (max-width:376px) {
